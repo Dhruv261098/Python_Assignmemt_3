@@ -47,7 +47,7 @@ print(person_3.strip())
 #Q8
 
 print(4+4)
-print(10-2)
+print(11-3)
 print(4*2)
 print(16/2)
 
